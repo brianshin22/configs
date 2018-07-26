@@ -9,7 +9,7 @@ set number " show line numbers
 
 set showmatch " highlight maching [{()}]
 
-set lines=40 columns=100 " set initial windows size
+"set lines=40 columns=100 " set initial windows size
 
 autocmd BufNewFile,BufRead [Mm]akefile* set noexpandtab " Makefiles require tabs
 
